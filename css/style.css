@@ -187,7 +187,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
+/* new */
 .step-image-box::before {
   background-color: #fdf2e9;
   width: 60%;
